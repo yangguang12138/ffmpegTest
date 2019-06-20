@@ -1,0 +1,9 @@
+
+FFmpegTest/FFmpeg-iOS/lib/libavcodec.a
+FFmpegTest/FFmpeg-iOS/lib/libavdevice.a
+FFmpegTest/FFmpeg-iOS/lib/libavfilter.a
+FFmpegTest/FFmpeg-iOS/lib/libavformat.a
+FFmpegTest/FFmpeg-iOS/lib/libavutil.a
+FFmpegTest/FFmpeg-iOS/lib/libSDL2.a
+FFmpegTest/FFmpeg-iOS/lib/libswresample.a
+FFmpegTest/FFmpeg-iOS/lib/libswscale.a
